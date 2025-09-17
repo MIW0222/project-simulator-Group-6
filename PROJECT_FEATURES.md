@@ -23,3 +23,7 @@ This task involves creating a password reset form component with email and passw
 This task involves creating a Platform Analytics Page component with platform statistics.
 **Status: Implemented**
 
+## T-16: Implement User Profile Page
+This task involves creating a user profile page component, displaying relevant user info.
+**Status: Implemented**
+
