@@ -15,3 +15,7 @@ ord fields, including validation and error handling.
 This task involves creating a sign in form component with email and password fields, including validation and error handling.
 **Status: Implemented**
 
+## T-3: Implement Forgot Password Page
+This task involves creating a password reset form component with email and password fields, including validation and error handling.
+**Status: Implemented**
+
