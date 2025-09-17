@@ -11,3 +11,7 @@ This task involves creating a sign-up form component with email and passw
 ord fields, including validation and error handling.
 **Status: Implemented**
 
+## T-2: Implement User Sign in Page
+This task involves creating a sign in form component with email and password fields, including validation and error handling.
+**Status: Implemented**
+
